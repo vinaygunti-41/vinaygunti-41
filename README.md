@@ -88,29 +88,29 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 <td><img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" width="220" alt="Data Analysis"></td>
 <td><img src="https://www.congruentsoft.com/Images/bi/bi-dashboard.gif" width="220" alt="BI Dashboard"></td>
 <td><img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="220" alt="Analytics"></td>
-<td><img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="220" alt="Data Science"></td>
 </tr>
 
 <tr align="center">
 <td><img src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif" width="220" alt="Data Science"></td>
 <td><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="220" alt="Analytics"></td>
 <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g0NWV6a3A5aWJjY2o4ZXd4N2Z3MG45eGJ6YnR5YTF5MGR5Zm9kbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="220" alt="Coding"></td>
-<td><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="Developer"></td>
 </tr>
 
 <tr align="center">
 <td><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="Dashboard"></td>
 <td><img src="https://media3.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" width="220" alt="Analytics"></td>
 <td><img src="https://i.pinimg.com/originals/42/a6/30/42a63010724c317d7503e7d2f32c9424.gif" width="220" alt="Data"></td>
-<td><img src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif" width="220" alt="Technology"></td>
 </tr>
 
 <tr align="center">
 <td><img src="https://media2.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif" width="220" alt="Business Intelligence"></td>
 <td><img src="https://gifdb.com/images/high/ai-finger-print-recognition-zl4ku51ojamo22k9.gif" width="220" alt="AI"></td>
 <td><img src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif" width="220" alt="Data Visualization"></td>
-<td><img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-389.gif" width="220" alt="Analytics"></td>
 </tr>
 
+<tr align="center">
+<td><img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-389.gif" width="220" alt="Analytics"></td>
+<td><img src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif" width="220" alt="Technology"></td> 
+<td><img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="220" alt="Data Science">
 </tbody>
 </table>
