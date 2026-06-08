@@ -7,15 +7,8 @@ Hi, I'm <b>Gunti Vinay</b>
 **A passionate Data Analytics || from India**
 
 
-<table align="right">
-<tr>
-<td>
-<img alt="Coding" width="500"
-src="https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif">
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/26/d2/67/26d26785ba961b7463a2db7ec645d07f.gif">
 
-</td>
-</tr>
-</table>
 
 - 🔭 I’m currently working on **Data Science**
   
