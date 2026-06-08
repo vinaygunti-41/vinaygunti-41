@@ -51,9 +51,9 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 <a href="https://github.com/" target="blank">
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/vinaygunti-dataanalyst) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaygunti2004@gmail.com) 
+</p>  
+  
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaygunti2004@gmail.com) 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 
@@ -66,9 +66,12 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 ---
 
 # 💻 Tech Stack:
-<img src="https://img.icons8.com/color/96/power-bi.png" width="60"/> <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/> <img src="https://img.icons8.com/color/96/c-programming.png" width="60" alt="C Programming"/> <img src="https://img.icons8.com/color/96/r-project.png" width="60" alt="R"/> <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="60"/> <img src="https://img.icons8.com/color/96/python--v1.png" width="60"/> <img src="https://img.icons8.com/color/96/database.png" width="60"/> <img src="https://img.icons8.com/color/96/tableau-software.png" width="60"/>
- <img src="https://img.icons8.com/color/96/presentation.png" width="60" alt="Data Storytelling"/> <img src="https://img.icons8.com/ios-filled/100/github.png" width="60"/>
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60"/> <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/> <img src="https://img.icons8.com/color/96/c-programming.png" width="60" alt="C Programming"/> <img src="https://img.icons8.com/color/96/r-project.png" width="60" alt="R"/> <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="60"/> <img src="https://img.icons8.com/color/96/python--v1.png" width="60"/>
 
+<img src="https://img.icons8.com/color/96/sql.png" width="60"/> <img src="https://img.icons8.com/color/96/tableau-software.png" width="60"/>
+<img src="https://img.icons8.com/color/96/presentation.png" width="60" alt="Data Storytelling"/> <img src="https://img.icons8.com/ios-filled/100/github.png" width="60"/> <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="60" alt="VS Code"/> <img src="https://img.icons8.com/color/96/teamwork.png" width="60"/>
+
+ <img src="https://img.icons8.com/color/96/google-colab.png" width="60" alt="Google Colab"/> <img src="https://img.icons8.com/color/96/communication.png" width="60"/> <img src="https://img.icons8.com/color/96/google-classroom.png" width="60" alt="Google Skillshop"/> <img src="https://img.icons8.com/color/96/google-cloud.png" width="60" alt="Google Cloud"/> <img src="https://img.icons8.com/color/96/data-configuration.png" width="60" alt="Power Query"/> <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60" alt="AI"/>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
