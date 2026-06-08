@@ -9,7 +9,7 @@
   
 - 📫 How to reach me: **vinaygunti2004@gmail.com**
 
-- 🔗LinkedIn Profile: [https://linkedin.com/in/linkedin.com/in/vinaygunti-dataanalyst](https://linkedin.com/in/linkedin.com/in/vinaygunti-dataanalyst)
+- 🔗LinkedIn Profile: [https://www.linkedin.com/in/vinaygunti-dataanalyst/](https://www.linkedin.com/in/vinaygunti-dataanalyst/)
 
 - ⚡ Fun fact: **I am funny😜**
 
