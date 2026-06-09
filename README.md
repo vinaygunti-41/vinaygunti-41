@@ -17,7 +17,7 @@ Hi, I'm <b>Gunti Vinay</b>
 - 🤝 I’m looking for help with: **Career guidance for Data Analyst roles**
   
 - 👨‍💻 All of my projects are available at: [https://devoted-jade-0of9azstaa.edgeone.app/](https://devoted-jade-0of9azstaa.edgeone.app/)
-  
+ 
 - 📫 How to reach me: **vinaygunti2004@gmail.com**
 
 - 🔗LinkedIn Profile: [https://www.linkedin.com/in/vinaygunti-dataanalyst/](https://www.linkedin.com/in/vinaygunti-dataanalyst/)
@@ -29,18 +29,6 @@ Hi, I'm <b>Gunti Vinay</b>
 ## 🔗  About Me. 😊
 I am a Data Science student focused on Data Analytics,strong foundation in Excel, SQL, Power BI, Tableau, and Python. I enjoy analyzing data, creating visualizations, and helping organizations make data-driven decisions with hands-on experience building interactive dashboards and real-world analytics projects.
 
----
-
-## 🌱 Currently Learning                  
-
-✔ Advanced Power BI  ✔ Python for Data Analytics  ✔ Excel  ✔Tableau  ✔basic SQL                
-
----
-
-## 💡 Soft Skill's 
-
- ✔ critical thinking ✔ collaborate ✔ curiosity  ✔ Problem solving ✔ storytelling
- 
 ---
 
 ## 🌐 Socials Links:
@@ -56,11 +44,11 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaygunti2004@gmail.com) 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
+<img  align="left" alt="Animation GIF" width="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<div align="left">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
