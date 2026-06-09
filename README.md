@@ -73,30 +73,34 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 
  <img src="https://img.icons8.com/color/96/google-colab.png" width="60" alt="Google Colab"/> <img src="https://img.icons8.com/color/96/communication.png" width="60"/> <img src="https://img.icons8.com/color/96/google-classroom.png" width="60" alt="Google Skillshop"/> <img src="https://img.icons8.com/color/96/google-cloud.png" width="60" alt="Google Cloud"/> <img src="https://img.icons8.com/color/96/data-configuration.png" width="60" alt="Power Query"/> <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60" alt="AI"/>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge&logo=tableau&logoColor=white) ![Dashboard Creator](https://img.shields.io/badge/Dashboard_Creator-FFB000?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Gunti+Vinay;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Python;Power+BI+%7C+Tableau+Developer;Data+Visualization+%26+Storytelling;Transforming+Data+Into+Business+Insights" />
 </p>
 
 
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+ ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge&logo=tableau&logoColor=white) ![Dashboard Creator](https://img.shields.io/badge/Dashboard_Creator-FFB000?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+<p align="center"> <b>Animation ZONE</b> </p>
+
 <table align="center">
 <tbody>
 
 <tr align="center">
 <td><img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" width="220" alt="Data Analysis"></td>
-<td><img src="https://www.congruentsoft.com/Images/bi/bi-dashboard.gif" width="220" alt="BI Dashboard"></td>
 <td><img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="220" alt="Analytics"></td>
+<td><img src="https://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" width="220" alt="Fun Animation"></td>
 </tr>
 
 <tr align="center">
-<td><img src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif" width="220" alt="Data Science"></td>
-<td><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="220" alt="Analytics"></td>
 <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g0NWV6a3A5aWJjY2o4ZXd4N2Z3MG45eGJ6YnR5YTF5MGR5Zm9kbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="220" alt="Coding"></td>
+<td><img src="https://media1.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="220" alt="Analytics Motion"></td>
+<td><img src="https://cdn-icons-gif.flaticon.com/15578/15578544.gif" width="220" alt="Icons Animation"></td>
 </tr>
 
 <tr align="center">
@@ -106,14 +110,16 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 </tr>
 
 <tr align="center">
-<td><img src="https://media2.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif" width="220" alt="Business Intelligence"></td>
-<td><img src="https://gifdb.com/images/high/ai-finger-print-recognition-zl4ku51ojamo22k9.gif" width="220" alt="AI"></td>
+<td><img src="https://i.pinimg.com/originals/72/f0/f8/72f0f872c567972c54917276a48cac12.gif" width="220" alt="Animation"></td>
 <td><img src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif" width="220" alt="Data Visualization"></td>
+<td><img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-389.gif" width="220" alt="Analytics"></td>
 </tr>
 
 <tr align="center">
-<td><img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-389.gif" width="220" alt="Analytics"></td>
-<td><img src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif" width="220" alt="Technology"></td> 
-<td><img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="220" alt="Data Science">
+<td><img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="220" alt="Animation"></td>
+<td><img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="220" alt="Data Science"></td>
+<td><img src="https://i.makeagif.com/media/11-12-2025/OJ-I7t.gif" width="220" alt="Animation"></td>
+</tr>
+
 </tbody>
 </table>
