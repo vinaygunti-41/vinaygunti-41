@@ -45,7 +45,7 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 <p align="left">
-<img align="left"alt="AnimationGIF"width="260"src="https://camo.githubusercontent.com/709a8f59a6e1e6bad388589925dff4c2677d33c508ee1170b66f7adca4950e81/68747470733a2f2f692e6962622e636f2f434a56427157462f74756d626c722d66656137306534383366383262336332306364336532383834383231643337392d30383831373832652d3430302e676966"><img align="left" alt="Animation GIF" width="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"><img align="left" alt="Animated GIF" width="150" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"><img  align="left" alt="Octocat GitHub GIF" width="200" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif">   
+<img align="left" alt="Animation GIF" width="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"><img align="left" alt="Animated GIF" width="150" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"> 
        
   
 <!-- Snake Game Repo View -->
