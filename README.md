@@ -94,7 +94,7 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 <tr align="center">
 <td><img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" width="220" alt="Data Analysis"></td>
 <td><img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="220" alt="Analytics"></td>
-<td><img src="https://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif" width="220" alt="Fun Animation"></td>
+<td><img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="220" alt="Animation GIF"></td>
 </tr>
 
 <tr align="center">
