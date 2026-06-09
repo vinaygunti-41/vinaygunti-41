@@ -78,11 +78,24 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Gunti+Vinay;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Python;Power+BI+%7C+Tableau+Developer;Data+Visualization+%26+Storytelling;Transforming+Data+Into+Business+Insights" />
 </p>
 
-
+---
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge&logo=tableau&logoColor=white) ![Dashboard Creator](https://img.shields.io/badge/Dashboard_Creator-FFB000?style=for-the-badge&logo=powerbi&logoColor=black)
+ ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white) ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-0052CC?style=for-the-badge&logo=tableau&logoColor=white) ![Dashboard Creator](https://img.shields.io/badge/Dashboard_Creator-FFB000?style=for-the-badge&logo=powerbi&logoColor=black) 
+
+
+**Soft Skills**
+
+![Storytelling](https://img.shields.io/badge/Storytelling-FF6F61?style=for-the-badge&logo=googleslides&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Collaboration-00BFA5?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-4285F4?style=for-the-badge&logo=googlechat&logoColor=white)
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF7043?style=for-the-badge&logo=leetcode&logoColor=white)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-3949AB?style=for-the-badge&logo=brainly&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-26A69A?style=for-the-badge&logo=slack&logoColor=white)
+![Presentation Skills](https://img.shields.io/badge/Presentation_Skills-F4511E?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ---
 
