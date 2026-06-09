@@ -90,7 +90,10 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 
 ---
 
-<p align="center"> <b>Animation ZONE</b> </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Animationsmation+Zone;Interactive+Visuals;Creative+Animations" />
+</p>
 
 <table align="center">
 <tbody>
