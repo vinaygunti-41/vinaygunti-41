@@ -45,7 +45,7 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 <p align="left">
-<img align="left" alt="Animation GIF" width="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"><img align="left" alt="Animated GIF" width="150" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"> 
+<img align="left" alt="Animation GIF" width="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"><img align="left" alt="Animated GIF" width="150" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"> <img align="center"src="https://static.designboom.com/wp-content/uploads/2015/09/ezgif-2808525077.gif" width="187"/>
        
   
 <!-- Snake Game Repo View -->
