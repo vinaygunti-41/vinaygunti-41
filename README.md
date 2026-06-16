@@ -34,18 +34,17 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 ## 🌐 Socials Links:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/guntivinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guntivinay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vinaygunti-dataanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vinay_only96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_only96" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vinaygunti_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinaygunti_official" height="30" width="40" /></a>
-<a href="https://github.com/" target="blank">
+<a href="https://twitter.com/guntivinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guntivinay" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/vinaygunti-dataanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="50" /></a>
+<a href="https://www.instagram.com/vinay_only96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_only96" height="30" width="50" /></a>
+<a href="https://www.youtube.com/c/vinaygunti_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinaygunti_official" height="30" width="50" /></a> <a href="mailto:vinaygunti200@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="50" /> <a href="https://github.com/" target="blank"> <a href="https://leetcode.com/u/LMSlkd25F2/" target="blank">
+  <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="leetcode" height="30" width="50" />  
+</a>
 </p>  
-  
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaygunti2004@gmail.com) 
 
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 <p align="left">
-<img align="left" alt="Animation GIF" width="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"><img align="left" alt="Animated GIF" width="150" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"> <img align="center"src="https://static.designboom.com/wp-content/uploads/2015/09/ezgif-2808525077.gif" width="187"/>
+<img align="left" alt="Animation GIF" width="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"> <img align="left" alt="Animated GIF" width="150" src="https://whizen.in/wp-content/uploads/2025/01/with-bg.gif"> <img align="center"src="https://static.designboom.com/wp-content/uploads/2015/09/ezgif-2808525077.gif" width="187"/>
        
   
 <!-- Snake Game Repo View -->
