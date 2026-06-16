@@ -39,8 +39,8 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 <a href="https://www.instagram.com/vinay_only96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_only96" height="30" width="50" /></a>
 <a href="https://www.youtube.com/c/vinaygunti_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinaygunti_official" height="30" width="50" /></a> <a href="mailto:vinaygunti200@gmail.com" target="blank">
   <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="50" /> <a href="https://github.com/" target="blank"> <a href="https://leetcode.com/u/LMSlkd25F2/" target="blank">
-  <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="leetcode" height="30" width="50" />  
-</a>
+  <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" alt="leetcode" height="30" width="50" /> <a href="file:///C:/Users/gunti%20vinay/Downloads/vinay_gunti_resume.pdf"target="_blank"> <img align="center" src="https://img.icons8.com/color/48/resume.png" height="30" width="50" /><a href="https://t.me/yourusername" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" height="30" width="50" />
+</a> 
 </p>  
 
 <p align="left">
