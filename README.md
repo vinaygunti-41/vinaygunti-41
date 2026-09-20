@@ -121,11 +121,5 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
 <td><img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-389.gif" width="220" alt="Analytics"></td>
 </tr>
 
-<tr align="center">
-<td><img src="https://cdn.pixabay.com/animation/2024/05/07/06/57/06-57-07-12_512.gif" width="220" alt="Animation"></td>
-<td><img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="220" alt="Data Science"></td>
-<td><img src="https://i.makeagif.com/media/11-12-2025/OJ-I7t.gif" width="220" alt="Animation"></td>
-</tr>
-
 </tbody>
 </table>
