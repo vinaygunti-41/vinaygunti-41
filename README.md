@@ -101,29 +101,5 @@ I am a Data Science student focused on Data Analytics,strong foundation in Excel
   <img src="https://git-activity.0xarchit.is-a.dev/graph?username=vinaygunti-41&radius=16&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" height="300" alt="activity graph" />
 </div>
 
-<tr align="center">
-<td><img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" width="220" alt="Data Analysis"></td>
-<td><img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="220" alt="Analytics"></td>
-<td><img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="220" alt="Animation GIF"></td>
-</tr>
 
-<tr align="center">
-<td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g0NWV6a3A5aWJjY2o4ZXd4N2Z3MG45eGJ6YnR5YTF5MGR5Zm9kbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="220" alt="Coding"></td>
-<td><img src="https://media1.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="220" alt="Analytics Motion"></td>
-<td><img src="https://cdn-icons-gif.flaticon.com/15578/15578544.gif" width="220" alt="Icons Animation"></td>
-</tr>
 
-<tr align="center">
-<td><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="Dashboard"></td>
-<td><img src="https://media3.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" width="220" alt="Analytics"></td>
-<td><img src="https://i.pinimg.com/originals/42/a6/30/42a63010724c317d7503e7d2f32c9424.gif" width="220" alt="Data"></td>
-</tr>
-
-<tr align="center">
-<td><img src="https://i.pinimg.com/originals/72/f0/f8/72f0f872c567972c54917276a48cac12.gif" width="220" alt="Animation"></td>
-<td><img src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif" width="220" alt="Data Visualization"></td>
-<td><img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-389.gif" width="220" alt="Analytics"></td>
-</tr>
-
-</tbody>
-</table>
